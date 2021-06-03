@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A prayer for his Majesties preservation and safety, in this his present imminent danger.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28307</idno><idno type="EEBO-CITATION">99886217</idno>
+  <idno type="VID">186481</idno>
+  <idno type="EEBO-PROQUEST">2248536403</idno>
+  
+            <idno type="STC">Wing P3189</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.112.h.4[24]</idno>
+            <idno type="STC">ESTC R225699</idno>
+            <idno type="PROQUEST">ocm99886217</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886217e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28307)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186481)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C5:1[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A prayer for his Majesties preservation and safety, in this his present imminent danger.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Early works to 1800.</term>
+               <term type="topical_term">Christianity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="prayer">
+            <pb facs="tcp:186481:1"/>
+            <head>A Prayer for <hi>HIS MAJESTIES</hi> Preservation and Safety, in this His present imminent Danger.</head>
+            <p>OMnipotent God, upon whose alone disposition all things depend; We acknow<g ref="char:EOLhyphen"/>ledge and bewaile before thy divine majesty, that our walking unworthy of the late light of the Gospel, and glorious presence amongst us; hath most justly begat thy dereliction, and the giving of us up unto our owne vile and corrupt affections, (the seed-plots of our growing calamities) and put the Sword of thy justice, into the hands of cruell men, and skilfull to destroy.</p>
+            <p>Hence O Lord (through thy just anger) it comes to passe, that thy House, thy beauti<g ref="char:EOLhyphen"/>full House lies wast, that thine Anointed, our King, his feet are fast in the stocks; and that he is pointed out by men of <hi>Belial</hi> unto death, and destruction: Our sins (O Lord) the great and crying sinnes of this Nation are the fountaine of these, and all the miseries which flow upon us: We beseech thee, through thine infinite mercy, by the power of thy grace, to stay the course of our sinnes, to divert the torrent of thy overflowing judg<g ref="char:EOLhyphen"/>ments, and to pardon our transgressions; O remember not against us former iniquities; let thy tender mercy speedily prevent us, for we are brought very low; Help us O God of our salvation, for the glory of thy name; and deliver us, and purge away our sinnes for thy names sake: Returne, O Lord, returne unto the place of thy worship, and let the light of thy countenance shine againe upon the face of thine Anointed; make up the breaches of thy Church, and restore His Majesty; O let the sighing of the Prisoner come before thee according unto the greatnesse of thy power, preserve thou him who is ap<g ref="char:EOLhyphen"/>pointed to die; And now (O Lord) that he is in the power of his Enemies, let his life be pretious in thy sight; and make it so in theirs also: Remember him, O Lord, concerning this, and wipe not out the good deeds which he hath done for thy house, and the offices thereof; and because the King trusteth in the Lord, therefore through thy mercy (O most High) let him not miscarry: take from them who have a will to hurt him, power; and from them that have power, take away a will: asswage the fury of their malice, we beseech thee, and convert the cruelty of their hatred, (as thou didst <hi>Esau's</hi> towards <hi>Ja<g ref="char:EOLhyphen"/>cob</hi>) into the duty of loyall affection: Thou (O Lord) who onely canst still the raging of the Sea, and the madnesse of the People; frustrate their intendments, change their pur<g ref="char:EOLhyphen"/>poses, divert their power, alter their wills: And, as to rescue the life of thy Prophet, thou didst first smite the Syrians with blindnesse; and after didst open their eyes and shew them, that there were more with him, than those that were against him: So we beseech thee to defeat the bloudy Contrivances, and change the cruell resolutions of those whose designe is to take away the Life of thine Anointed our Soveraign Lord King CHARLS; shew unto their Consciences the great guilt of so horrible impiety; let the power of thy word prevaile over the power of their wills; teach them, that thy permission unto such sinfull actions doth no way warrant thy approbation, but manifest thy forsaking of them: Therefore (O Lord) in mercy unto His Majesty; unto them, unto us, and unto the three Kingdomes, oppose powerfull impediments, and sufficient hindrances unto their per<g ref="char:EOLhyphen"/>verse purposes; awe them with thy feare, and make them afraid to stretch forth their hands against thine Anointed. And thou (O Lord) who hast the sole direction, and limitation of sinne; and onely canst bring good out of evill; bring good out of the evill of these mens sin; bring good thereout unto thy Church, Safety and Honour unto His Majesty, and Peace and tranquillity unto these Kingdomes, by subduing the affections of His People under thy Vicegerent, by restoring them unto their former, loyall, and Christian subjection unto Him, and by uniting all His Subjects in the fast bond of mutuall love, and Christian kindnesse one towards another.</p>
+            <p>Thou (O Lord) who gavest thine onely begotten Sonne for thy Church, heare our Prayers for thy Church, and for thy Churches sake; heare us for our Soveraigne the nur<g ref="char:EOLhyphen"/>sing Father of this Church, and that for thy Words sake, and for thy Christs sake, Unto whom with thee, and the Holy Ghost, be ascribed all praise, power, and dominion, now and for ever, <hi>Amen.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
